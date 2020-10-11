@@ -1,0 +1,90 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kumar.akshay.v_player"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:5:5-80
+11-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:5:22-77
+12
+13    <application
+13-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:7:5-43:19
+14        android:allowBackup="true"
+14-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.3.0] C:\Users\akshay\.gradle\caches\transforms-2\files-2.1\429fb715fcc7711d4ab133e350b6f531\core-1.3.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:13:9-40
+23        <activity
+23-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:14:9-23:20
+24            android:name="com.kumar.akshay.v_player.Video_Gallery"
+24-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:15:13-42
+25            android:label="@string/title_activity_video__gallery"
+25-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:16:13-66
+26            android:parentActivityName="com.kumar.akshay.v_player.MainActivity"
+26-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:17:13-55
+27            android:theme="@style/AppTheme.NoActionBar" >
+27-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:18:13-56
+28            <meta-data
+28-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:19:13-21:73
+29                android:name="android.support.PARENT_ACTIVITY"
+29-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:20:17-63
+30                android:value="com.kumar.akshay.v_player.MainActivity" />
+30-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:21:17-71
+31        </activity>
+32        <activity
+32-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:24:9-32:20
+33            android:name="com.kumar.akshay.v_player.VideoPlayerActivity"
+33-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:25:13-48
+34            android:label="Video Player"
+34-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:26:13-41
+35            android:parentActivityName="com.kumar.akshay.v_player.Video_Gallery"
+35-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:27:13-56
+36            android:theme="@style/AppTheme.NoActionBar" >
+36-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:28:13-56
+37            <meta-data
+37-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:19:13-21:73
+38                android:name="android.support.PARENT_ACTIVITY"
+38-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:20:17-63
+39                android:value="com.kumar.akshay.v_player.Video_Gallery" />
+39-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:21:17-71
+40        </activity>
+41        <activity
+41-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:33:9-42:20
+42            android:name="com.kumar.akshay.v_player.MainActivity"
+42-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:34:13-41
+43            android:label="@string/app_name"
+43-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:35:13-45
+44            android:theme="@style/AppTheme.NoActionBar" >
+44-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:36:13-56
+45            <intent-filter>
+45-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:37:13-41:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:38:17-69
+46-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:38:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:40:17-77
+48-->C:\Users\akshay\AndroidStudioProjects\VPlayer - Copy\app\src\main\AndroidManifest.xml:40:27-74
+49            </intent-filter>
+50        </activity>
+51    </application>
+52
+53</manifest>

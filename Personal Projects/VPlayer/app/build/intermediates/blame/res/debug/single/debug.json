@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video__gallery.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout\\activity_video__gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_folder_black_24dp.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\drawable\\ic_folder_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_controller_view.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout-land\\controller_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph2.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\navigation\\nav_graph2.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_gallery_view.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout\\gallery_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_vertical_recycler_file_api20_view.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout\\vertical_recycler_file_api20_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_controller_view.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout\\controller_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_verticle_recycler_file_view.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout\\verticle_recycler_file_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_player.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph3.xml.flat",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\navigation\\nav_graph3.xml"
+    }
+]

@@ -1,0 +1,2 @@
+rootProject.name='V-Player'
+include ':app'

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_video_player.xml",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\gallery_view.xml",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout\\gallery_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\controller_view.xml",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout\\controller_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\verticle_recycler_file_view.xml",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout\\verticle_recycler_file_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_video__gallery.xml",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout\\activity_video__gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\vertical_recycler_file_api20_view.xml",
+        "source": "C:\\Users\\akshay\\AndroidStudioProjects\\VPlayer - Copy\\app\\src\\main\\res\\layout\\vertical_recycler_file_api20_view.xml"
+    }
+]

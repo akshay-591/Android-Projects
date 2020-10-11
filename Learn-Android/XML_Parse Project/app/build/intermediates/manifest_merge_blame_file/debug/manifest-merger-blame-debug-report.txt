@@ -1,0 +1,66 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="kumar.akshay.datadownloader"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:7:5-25:19
+14        android:allowBackup="true"
+14-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.1.0] C:\Users\akshay\.gradle\caches\transforms-2\files-2.1\da95e0dd41fd0c634661df2a0f122634\core-1.1.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="Rss Feeds"
+18-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:10:9-34
+19        android:networkSecurityConfig="@xml/network_security_config"
+19-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:11:9-69
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme" >
+23-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:14:9-40
+24        <activity android:name="kumar.akshay.datadownloader.LauncherActivity" >
+24-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:15:9-21:20
+24-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:15:19-51
+25            <intent-filter>
+25-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:16:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:17:17-69
+26-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:17:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:19:17-77
+28-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity android:name="kumar.akshay.datadownloader.MainActivity" >
+31-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:22:9-24:20
+31-->C:\Users\akshay\AndroidStudioProjects\DataDownloader\app\src\main\AndroidManifest.xml:22:19-47
+32        </activity>
+33
+34        <provider
+34-->[com.squareup.picasso:picasso:2.71828] C:\Users\akshay\.gradle\caches\transforms-2\files-2.1\e458c1496cc25bfc66a64c17611b69e3\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+35            android:name="com.squareup.picasso.PicassoProvider"
+35-->[com.squareup.picasso:picasso:2.71828] C:\Users\akshay\.gradle\caches\transforms-2\files-2.1\e458c1496cc25bfc66a64c17611b69e3\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+36            android:authorities="kumar.akshay.datadownloader.com.squareup.picasso"
+36-->[com.squareup.picasso:picasso:2.71828] C:\Users\akshay\.gradle\caches\transforms-2\files-2.1\e458c1496cc25bfc66a64c17611b69e3\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+37            android:exported="false" />
+37-->[com.squareup.picasso:picasso:2.71828] C:\Users\akshay\.gradle\caches\transforms-2\files-2.1\e458c1496cc25bfc66a64c17611b69e3\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+38    </application>
+39
+40</manifest>

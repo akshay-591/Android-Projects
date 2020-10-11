@@ -1,0 +1,4 @@
+#Tue Apr 28 21:33:35 IST 2020
+base.0=C\:\\Users\\akshay\\AndroidStudioProjects\\TaskTimer\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

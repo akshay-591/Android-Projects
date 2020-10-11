@@ -1,0 +1,4 @@
+#Wed Mar 18 16:40:40 IST 2020
+base.0=C\:\\Users\\akshay\\AndroidStudioProjects\\BasicCalculator\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

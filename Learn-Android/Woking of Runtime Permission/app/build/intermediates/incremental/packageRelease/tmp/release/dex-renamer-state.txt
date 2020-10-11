@@ -1,0 +1,4 @@
+#Sat Apr 11 20:32:30 IST 2020
+base.0=C\:\\Users\\akshay\\AndroidStudioProjects\\TheData_Receiver\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
